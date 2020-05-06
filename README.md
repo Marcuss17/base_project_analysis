@@ -29,9 +29,14 @@
 1. [Técnica 2](docs/analysis/tecnica2.md)
 
 ### Casos de Uso / Use Case
-1. [UC-01 Login](docs/analysis/UC01.md)
-2. [UC-02 Register](docs/analysis/UC02.md)
-3. [UC-03 Buscar contenido](docs/analysis/UC03.md)
+1. [UC-01 Register](docs/analysis/UC01.md)
+2. [UC-02 Login](docs/analysis/UC02.md)
+3. [UC-03 Subir contenido](docs/analysis/UC03.md)
+4. [UC-04 Buscar contenido](docs/analysis/UC04.md)
+5. [UC-05 Descargar contenido](docs/analysis/UC05.md)
+6. [UC-06 Calificar contenido](docs/analysis/UC06.md)
+7. [UC-07 Revisar views y downlodas](docs/analysis/UC07.md)
+
 4. [UC Diagram](docs/analysis/UC_Diagram.md)
 
 ### Presentation / Presentación
